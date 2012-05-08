@@ -5,3 +5,5 @@ Open Source 101: Git Involved with GitHub
 * [@dahlbyk](http://twitter.com/dahlbyk)
 * http://keith.lostechies.com/
 * http://www.jpcycles.com/
+
+Git is awesome!

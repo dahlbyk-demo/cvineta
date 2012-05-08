@@ -1,4 +1,7 @@
-cvineta
-=======
+Open Source 101: Git Involved with GitHub
+====
 
-Demo Repo for May CVINETA
+* Keith Dahlby
+* [@dahlbyk](http://twitter.com/dahlbyk)
+* http://keith.lostechies.com/
+* http://www.jpcycles.com/
